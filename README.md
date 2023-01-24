@@ -1,7 +1,5 @@
-Documentation 
-Documentation of Components can be found on links
+Documentation of Components:
 
-- [DeckSwiper] (docs/DeckSwiper.md)
-- [StarRating] (docs/StarRating.md)
+- [DeckSwiper](/docs/DeckSwiper.md)
+- [StarRating](/docs/StarRating.md)
 
-Star Rating is component of [Draftbit's](https://draftbit.com) component library. Basic purpose is to add or display star rating. 
